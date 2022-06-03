@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'CorporateA-Bold';
+  src: url('CorporateA-Bold.eot');
+  src: url('CorporateA-Bold.eot?#iefix') format('embedded-opentype'),
+       url('CorporateA-Bold.svg#CorporateA-Bold') format('svg'),
+       url('CorporateA-Bold.ttf') format('truetype'),
+       url('CorporateA-Bold.woff') format('woff'),
+       url('CorporateA-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
