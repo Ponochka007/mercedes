@@ -44,9 +44,6 @@ ul  {
     padding: 0 10px;/*при изменении размера экрана иконки не будут прилипать к границе*/
 
 }
-.header {
-
-}
 .header__top    {
     display: flex;
     justify-content: space-between;
@@ -206,6 +203,10 @@ ul  {
 .video__btn:hover path  {
     fill: #53A1CB;
 }
+.design__cell-text  {
+    margin-bottom: 21px;
+}
+
 
 
 
